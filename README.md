@@ -32,10 +32,10 @@
             <img src="./assets/solana.png" width="48" height="48" alt="solana" />
             <br>Solana
         </td>
-        <td align="center" width="150">
-            <img src="./assets/icp.png" width="48" height="48" alt="icp" />
-            <br>ICP
-        </td>               
+         <td align="center" width="150">
+            <img src="./assets/hedera.png" alt="icon" width="48" height="48" />
+            <br>Hedera 
+        </td>             
     </tr>
     <tr>
         <td align="center" width="150">
@@ -63,9 +63,9 @@
             <br>Stellar
         </td>
         <td align="center" width="150">
-            <img src="https://github.com/user-attachments/assets/3ac4fb1b-f991-4e5f-8a2e-ab26a3e3f315" width="48" height="48" alt="Hardhat" />
-            <br>Hardhat
-        </td>        
+            <img src="./assets/xrp.png" width="48" height="48" alt="xrp" />
+            <br>XRP
+        </td>     
     </tr>
     <tr>
         <td align="center" width="150">
@@ -85,17 +85,49 @@
             <br>Vue
         </td>
         <td align="center" width="150">
+            <img src="./assets/express.png" alt="express" width="48" height="48" />
+            <br>Express.js 
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/nest.jpg" width="48" height="48" alt="nest" />
+            <br>Nest.js
+        </td>
+        <td align="center" width="150">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
             <br>Python
         </td>
+        
+    </tr>
+    <tr>
+        <td align="center" width="150">
+            <img src="./assets/mongodb.jpg" alt="icon" width="48" height="48" />
+            <br>MongoDB
+        </td> 
+        <td align="center" width="150">
+            <img src="./assets/postgresql.jpg" width="48" height="48" alt="Postgresql" />
+            <br>Postgresql
+        </td> 
          <td align="center" width="150">
-            <img src="./assets/hedera.png" alt="icon" width="48" height="48" />
-            <br>Hedera 
+            <img src="./assets/supabase.png" width="48" height="48" alt="Supabase" />
+            <br>Supabase
         </td>
         <td align="center" width="150">
-            <img src="./assets/xrp.png" width="48" height="48" alt="xrp" />
-            <br>XRP
+            <img src="./assets/mysql.jpg" width="48" height="48" alt="Mysql" />
+            <br>Mysql
         </td>
+        <td align="center" width="150">
+            <img src="./assets/restapi.png" alt="express" width="48" height="48" />
+            <br>Rest api
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/fastapi.png" width="48" height="48" alt="fastapi" />
+            <br>Fastapi
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/stripeapi.jpg" alt="icon" width="48" height="48" />
+            <br>Stripe api
+        </td>
+        
     </tr>
     <tr>
         <td align="center" width="150">
