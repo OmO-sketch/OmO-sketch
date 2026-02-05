@@ -96,7 +96,6 @@
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
             <br>Python
         </td>
-        
     </tr>
     <tr>
         <td align="center" width="150">
@@ -127,7 +126,6 @@
             <img src="./assets/stripeapi.jpg" alt="icon" width="48" height="48" />
             <br>Stripe api
         </td>
-        
     </tr>
     <tr>
         <td align="center" width="150">
