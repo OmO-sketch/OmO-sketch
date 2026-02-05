@@ -9,66 +9,6 @@
 <table align="center">
     <tr>
         <td align="center" width="150">
-            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
-            <br>Solidity
-        </td>
-        <td align="center" width="150">
-            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
-            <br>Rust
-        </td>
-        <td align="center" width="150">
-            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-            <br>Go
-        </td> 
-        <td align="center" width="150">
-            <img src="./assets/cosmos.png" width="48" height="48" alt="Cosmos" />
-            <br>Cosmos
-        </td>
-        <td align="center" width="150">
-            <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
-            <br>Ethereum
-        </td>    
-        <td align="center" width="150">
-            <img src="./assets/solana.png" width="48" height="48" alt="solana" />
-            <br>Solana
-        </td>
-         <td align="center" width="150">
-            <img src="./assets/hedera.png" alt="icon" width="48" height="48" />
-            <br>Hedera 
-        </td>             
-    </tr>
-    <tr>
-        <td align="center" width="150">
-            <img src="./assets/ton.png" width="48" height="48" alt="ton" />
-            <br>Ton
-        </td> 
-        <td align="center" width="150">
-            <img src="./assets/polkadot.png" width="48" height="48" alt="polkadot" />
-            <br>Polkadot
-        </td>
-        <td align="center" width="150">
-            <img src="./assets/aptos.png" width="48" height="48" alt="Aptos" />
-            <br>Aptos
-        </td>  
-        <td align="center" width="150">
-            <img src="./assets/cardano.png" width="48" height="48" alt="near" />
-            <br>Cardano
-        </td> 
-        <td align="center" width="150">
-            <img src="./assets/sui.png" width="48" height="48" alt="sui" />
-            <br>Sui
-        </td>
-        <td align="center" width="150">
-            <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
-            <br>Stellar
-        </td>
-        <td align="center" width="150">
-            <img src="./assets/xrp.png" width="48" height="48" alt="xrp" />
-            <br>XRP
-        </td>     
-    </tr>
-    <tr>
-        <td align="center" width="150">
             <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" height="48" />
             <br>React
         </td> 
@@ -156,6 +96,66 @@
             <img src="./assets/java.png" width="48" height="48" />
             <br>Java
         </td>
+    </tr>
+    <tr>
+        <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+            <br>Solidity
+        </td>
+        <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=rust" width="48" height="48" alt="Rust" />
+            <br>Rust
+        </td>
+        <td align="center" width="150">
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <br>Go
+        </td> 
+        <td align="center" width="150">
+            <img src="./assets/cosmos.png" width="48" height="48" alt="Cosmos" />
+            <br>Cosmos
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/ethereum.png" width="48" height="48" alt="ethereum" />
+            <br>Ethereum
+        </td>    
+        <td align="center" width="150">
+            <img src="./assets/solana.png" width="48" height="48" alt="solana" />
+            <br>Solana
+        </td>
+         <td align="center" width="150">
+            <img src="./assets/hedera.png" alt="icon" width="48" height="48" />
+            <br>Hedera 
+        </td>             
+    </tr>
+    <tr>
+        <td align="center" width="150">
+            <img src="./assets/ton.png" width="48" height="48" alt="ton" />
+            <br>Ton
+        </td> 
+        <td align="center" width="150">
+            <img src="./assets/polkadot.png" width="48" height="48" alt="polkadot" />
+            <br>Polkadot
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/aptos.png" width="48" height="48" alt="Aptos" />
+            <br>Aptos
+        </td>  
+        <td align="center" width="150">
+            <img src="./assets/cardano.png" width="48" height="48" alt="near" />
+            <br>Cardano
+        </td> 
+        <td align="center" width="150">
+            <img src="./assets/sui.png" width="48" height="48" alt="sui" />
+            <br>Sui
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/stellar.png" width="48" height="48" alt="stellar" />
+            <br>Stellar
+        </td>
+        <td align="center" width="150">
+            <img src="./assets/xrp.png" width="48" height="48" alt="xrp" />
+            <br>XRP
+        </td>     
     </tr>
 </table>
 <br><br>
