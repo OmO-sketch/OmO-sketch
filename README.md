@@ -29,8 +29,8 @@
             <br>Express.js 
         </td>
         <td align="center" width="150">
-            <img src="./assets/nest.jpg" width="48" height="48" alt="nest" />
-            <br>Nest.js
+            <img src="./assets/php.png" width="48" height="48" alt="php" />
+            <br>php
         </td>
         <td align="center" width="150">
             <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
