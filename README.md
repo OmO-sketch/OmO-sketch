@@ -55,16 +55,16 @@
             <br>Mysql
         </td>
         <td align="center" width="150">
-            <img src="./assets/restapi.png" alt="express" width="48" height="48" />
-            <br>Rest api
+            <img src="./assets/c.jpg" alt="C++" width="48" height="48" />
+            <br>C++
         </td>
         <td align="center" width="150">
-            <img src="./assets/fastapi.png" width="48" height="48" alt="fastapi" />
-            <br>Fastapi
+            <img src="./assets/c1.png" width="48" height="48" alt="C#" />
+            <br>C#
         </td>
         <td align="center" width="150">
-            <img src="./assets/stripeapi.jpg" alt="icon" width="48" height="48" />
-            <br>Stripe api
+            <img src="./assets/net.jpg" alt="icon" width="48" height="48" />
+            <br>ASP.NET
         </td>
     </tr>
     <tr>
@@ -160,4 +160,5 @@
 </table>
 <br><br>
 </div>
+
 
