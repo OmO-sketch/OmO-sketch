@@ -1,7 +1,7 @@
 
 # 💫 Hi Everyone
 <div align="center">
- <h2>My job is to make your life easier with Blockchain.</h2>
+ <h2>My job is to make your life easier with development</h2>
 </div>
 
 # 💻 My Skills:
